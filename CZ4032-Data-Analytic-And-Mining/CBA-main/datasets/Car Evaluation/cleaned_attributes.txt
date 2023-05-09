@@ -1,0 +1,1 @@
+['doors', 'persons', 'lug_boot', 'safety', 'class']

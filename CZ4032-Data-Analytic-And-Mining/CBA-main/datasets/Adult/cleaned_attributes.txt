@@ -1,0 +1,1 @@
+['age', 'workclass', 'education', 'education_num', 'sex', 'capital_gain', 'capital_loss', 'income']

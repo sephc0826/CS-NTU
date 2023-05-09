@@ -1,0 +1,1 @@
+['alcalinity', 'malic_acid', 'nonflavanoid+phenols', 'color_inten', 'type']

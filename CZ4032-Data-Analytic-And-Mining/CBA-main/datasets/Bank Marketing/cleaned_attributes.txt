@@ -1,0 +1,1 @@
+['age', 'marital', 'education', 'balance', 'contact', 'month', 'duration', 'pdays', 'previous', 'poutcome', 'y']
